@@ -1,0 +1,8 @@
+Make an algorithm that allows performing arithmetic operations between two numbers, and that the user selects which operation needs to be done among the following operations:
+- Addition
+- Subtraction
+- Multiplication
+- Division (validate division by 0)
+- Power
+- Leave
+Show the result of the operation, In addition to allowing you to perform various operations until it indicates exit.
