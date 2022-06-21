@@ -64,4 +64,3 @@ drawTree(readIntegerBetween("How tall should the Tree be...? Values ​​betwee
 return 0;
 }
 -------------------------------------------------- --------------------------------------------------
-Realice el código en compañia de un amigo(a) y envíelo a jjmoreno@unicauca.edu.co a mas tardar mañana 17 de junio a las 8:00 a.m
