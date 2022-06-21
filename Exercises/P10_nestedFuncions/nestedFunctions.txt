@@ -1,0 +1,6 @@
+Make a program that calculates a function:
+
+	| 0 if x = 0
+	| 1 if x = 1
+f(x)| 2 if x = 2
+	| f(x-3) + 2 * f(x-2) + f(x-1) if x > 2

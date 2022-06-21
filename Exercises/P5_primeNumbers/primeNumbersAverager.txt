@@ -1,0 +1,4 @@
+Make a function called "prime" that receives a integer and
+return 1 if it's prime or 0 if it's not prime.
+Make a program for enter numbers, until user enters 0
+obtain average only counting prime numbers.

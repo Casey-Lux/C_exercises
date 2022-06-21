@@ -1,0 +1,3 @@
+make a program that calculates the combinatorics.
+User should be able to enter two numbers n and m in:
+(n, m) = (n!) / (m! (n - m)!)

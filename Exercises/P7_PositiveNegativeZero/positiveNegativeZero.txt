@@ -1,0 +1,4 @@
+Make a function called positiveNegativeZero that receives a number
+and return 1 if it's positive, 0 if it's zero and -1 if it's negative.
+Make a program that recieves 100 numbers and print the amount of
+positive, zero and negative numbers.

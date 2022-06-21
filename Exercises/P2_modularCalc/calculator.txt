@@ -1,0 +1,2 @@
+Make a calculator with functions (addition, multiplication, division)
+it should be able to validate zero input for division

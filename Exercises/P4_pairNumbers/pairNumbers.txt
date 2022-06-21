@@ -1,0 +1,4 @@
+Make a function called pair that receives a integer
+and return 1 if it's pair or 0 if it's odd
+Make a program for enter 20 numbers and that print 
+how many numbers from the list are pairs.

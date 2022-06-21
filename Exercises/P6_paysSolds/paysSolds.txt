@@ -1,0 +1,5 @@
+Make a function called pays, that receives an amount
+and the number of payments, that should return the
+amount for each payment.
+Make a program for enter 10 solds, program should print
+the number of payments and the amount for each sold.

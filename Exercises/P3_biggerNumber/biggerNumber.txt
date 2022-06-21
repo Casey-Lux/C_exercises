@@ -1,0 +1,1 @@
+Make an algorithm that choose the bigger number between two entered numbers.

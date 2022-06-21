@@ -1,0 +1,67 @@
+Enunciado.  Ud debe observar cuidadosamente la siguiente ejecución de un programa y codificar una solución con base en el diseño que se le entrega posteriormente.
+Lo que se muestra es un EJEMPLO de la salida por consola de este programa.
+
+----------------------------------------------------------------------------------------------------
+
+Que altura debe tener el Arbol...? Valores entre [1..44]:0
+
+El valor debe estar entre 1..44
+Que altura debe tener el Arbol...? Valores entre [1..44]:46
+
+El valor debe estar entre 1..44
+Que altura debe tener el Arbol...? Valores entre [1..44]:13
+              *
+            °+*+°
+           °++°++°
+          °+++*+++°
+         °++++°++++°
+        °+++++*+++++°
+       °++++++°++++++°
+      °+++++++*+++++++°
+     °++++++++°++++++++°
+    °+++++++++*+++++++++°
+   °++++++++++°++++++++++°
+  °+++++++++++*+++++++++++°
+ °++++++++++++°++++++++++++°
+             | |
+
+
+<< El programa ha finalizado: codigo de salida: 0 >>
+<< Presione enter para cerrar esta ventana >>
+
+----------------------------------------------------------------------------------------------------
+
+Ud. DEBE ajustarse al siguiente diseño para elaborar una solución, no quite ni agregue funciones...
+Codifique dentro de ellas para que pueda alcanzar el resultado esperado.
+Tampoco codifique a su manera, cualquier código fuera del diseño a continuación será descartado.
+
+void saltarLinea()
+{
+
+}
+int leerEnteroEntre(char* prmEtiqueta,int prmTopeInferior, int prmTopeSuperior)
+{
+
+}
+void escribirEspacios(int prmCantidad)
+{
+
+}
+void escribirRama1Con(int prmLongitud,char prmCaracter1, char prmCaracter2)
+{
+
+}
+void escribirRama2Con(int prmLongitud,char prmCaracter1, char prmCaracter2, char prmCaracter3)
+{
+
+}
+void dibujarArbol(int prmAltura)
+{
+
+}
+int main() {
+	dibujarArbol(leerEnteroEntre("Que altura debe tener el Arbol...? Valores entre [1..44]",1,44));
+	return 0;
+}
+----------------------------------------------------------------------------------------------------
+Realice el código en compañia de un amigo(a) y envíelo a jjmoreno@unicauca.edu.co a mas tardar mañana 17 de junio a las 8:00 a.m

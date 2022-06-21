@@ -1,0 +1,5 @@
+Make a program that calculates all posibles combination for Q
+
+Q is a game where you can choose numbers from 1 to 5
+you can choose a number only once and in the end
+the person who have more > is the winner

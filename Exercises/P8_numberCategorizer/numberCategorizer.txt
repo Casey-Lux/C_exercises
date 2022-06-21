@@ -1,0 +1,5 @@
+Make a program where we can enter a list of numbers
+until we enter 0, th program should print:
+1. the bigger of pairs
+2. the amount of odd numbers
+3. the minor of prime numbers
