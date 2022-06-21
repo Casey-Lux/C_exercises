@@ -1,0 +1,67 @@
+Statement. You must carefully observe the next execution of a program and code a solution based on the design that is given to you later.
+What is shown is an EXAMPLE of the console output of this program.
+
+-------------------------------------------------- --------------------------------------------------
+
+How tall should the tree be...? Values ​​between [1..44]:0
+
+The value must be between 1..44
+How tall should the tree be...? Values ​​between [1..44]:46
+
+The value must be between 1..44
+How tall should the tree be...? Values ​​between [1..44]:13
+              *
+            °+++°
+           °++°++°
+          °+++*+++°
+         °++++°++++°
+        °++++*++++++°
+       °++++++°++++++°
+      °++++++*++++++++°
+     °++++++++°++++++++°
+    °++++++++*++++++++++°
+   °++++++++++°++++++++++°
+  °+++++++++++*+++++++++++°
+ °++++++++++++°++++++++++++°
+             | |
+
+
+<< The program has ended: exit code: 0 >>
+<< Press enter to close this window >>
+
+-------------------------------------------------- --------------------------------------------------
+
+You MUST adhere to the following design to build a solution, do not remove or add features...
+Code inside them so that you can achieve the expected result.
+Also don't code your way, any code outside the layout below will be discarded.
+
+void skipLine()
+{
+
+}
+int readIntegerBetween(char* prmLabel,int prmLowTop, int prmTopTop)
+{
+
+}
+void writeSpaces(int prmAmount)
+{
+
+}
+void writeBranch1With(int prmLength, char prmCharacter1, char prmCharacter2)
+{
+
+}
+void writeBranch2With(int prmLength, char prmCharacter1, char prmCharacter2, char prmCharacter3)
+{
+
+}
+void drawTree(int prmHeight)
+{
+
+}
+int main() {
+drawTree(readIntegerBetween("How tall should the Tree be...? Values ​​between [1..44]",1,44));
+return 0;
+}
+-------------------------------------------------- --------------------------------------------------
+Realice el código en compañia de un amigo(a) y envíelo a jjmoreno@unicauca.edu.co a mas tardar mañana 17 de junio a las 8:00 a.m
